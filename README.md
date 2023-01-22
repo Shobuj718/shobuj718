@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  
 <br/> <br/>
 
-skills section starts here  -->
+skills section starts here  
 
 
 <!-- work experience section starts here 
@@ -51,7 +51,7 @@ skills section starts here  -->
 <br/>
 <!-- work experience section starts here  -->
 
-<!-- education section starts here  -->
+<!-- education section starts here 
 
 ### 👨🏻‍🎓 &nbsp; Education
 
