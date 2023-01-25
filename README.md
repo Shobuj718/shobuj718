@@ -9,7 +9,7 @@
 
 <!-- Talking about you -->
 **About Me:**
-- 🔭 I’m currently working on <a href="www.dream71.com">Dream71 Bangladesh Ltd </a>
+- 🔭 I’m currently working in <a href="www.dream71.com">Dream71 Bangladesh Ltd </a>
 - 📫 How to reach me: <a href="mailto='shobujsa93@gmail.com'">shobujsa93@gmail.com </a> 
 - 🌱 I’m currently learning ReactJS.
 - A Full-stack Developer working with PHP,Laravel, Vue Js and React Js
